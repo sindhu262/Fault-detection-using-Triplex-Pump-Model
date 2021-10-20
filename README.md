@@ -1,2 +1,2 @@
 # Fault-detection-using-Triplex-Pump-Model
-finding the fault detection using different ML methods 
+Detecting the type of fault using different ML methods 
